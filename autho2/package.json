@@ -1,0 +1,7 @@
+{
+  "name": "zend-applications-auth",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Discord OAuth2 sign-in for Zend Applications on Vercel",
+  "engines": { "node": ">=20" }
+}
